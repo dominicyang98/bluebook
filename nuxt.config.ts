@@ -2,7 +2,7 @@
 export default {
     head: {
         link: [
-            { rel: 'icon', type:'image/x-icon', href: '/icon.ico' },
+            { rel: 'icon', type:'image/x-icon', href: '/favicon.ico' },
         ]
     },
 }
