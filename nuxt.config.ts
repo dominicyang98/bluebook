@@ -2,7 +2,7 @@
 export default {
     head: {
         link: [
-            { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' },
+            { rel: 'icon', type:'image/x-icon', href: '/icon.ico' },
         ]
     },
 }
