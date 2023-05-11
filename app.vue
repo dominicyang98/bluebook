@@ -1,5 +1,6 @@
 <template>
   <div>
-      <h3>test page 15:42</h3>
+    <VitePwaManifest />
+    <NuxtWelcome />
   </div>
 </template>
